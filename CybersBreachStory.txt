@@ -1,0 +1,16 @@
+ the cybersecurity breach that occurred at Equifax in 2017. This breach stands as one of the most significant cybersecurity incidents in recent history.
+ Equifax, one of the largest credit reporting agencies globally, suffered a breach that exposed the sensitive personal information of over 147 million individuals.
+The breach occurred due to a vulnerability in the Apache Struts web application framework,specifically in the Apache Struts CVE-2017-5638 vulnerability, 
+which allowed attackers to execute arbitrary code remotely.
+
+Motivations behind the breach primarily revolved around financial gain and data exploitation.
+The stolen information included names, Social Security numbers, birth dates, addresses, and in some cases, driver's license numbers.
+With such valuable data in hand, cybercriminals could engage in identity theft, financial fraud, and other illicit activities for profit.
+The extensive scale and sensitivity of the exposed data amplified the severity of the breach,
+resulting in significant repercussions for Equifax and affected individuals.
+
+The breach highlighted critical tech flaws in Equifax's cybersecurity infrastructure, particularly regarding patch management and vulnerability remediation.
+Equifax failed to promptly apply available security patches for the Apache Struts vulnerability, despite patches being released well in advance of the breach. 
+This oversight allowed attackers to exploit the vulnerability and gain unauthorized access to Equifax's systems.
+ Since the breach, Equifax has implemented stricter patch management policies, enhanced network segmentation,
+ and invested in advanced threat detection and response capabilities to fortify its defenses against similar vulnerabilities and attacks in the future.
